@@ -1,0 +1,25 @@
+.CardDetails {
+    border: 1px solid #bbb;
+    background-color: #eee;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 80%;
+    margin: 5px auto;
+    color: rgb(131, 17, 126);
+}
+
+.CardImage {
+    width: 250px;
+    padding: 16px;
+    text-align: center;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px rgba(0,0,0,1);
+    margin: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.Container {
+    padding: 2px 16px;
+}
