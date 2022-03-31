@@ -1,7 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
-import CardDetails from './components/Cards/Card/CardDetails/CardDetails';
-
+import CardDetails from './components/CardDetails/CardDetails';
 import Feed from './components/Feed/Feed';
 
 function App() {
