@@ -1,0 +1,9 @@
+.Cards {
+    border: 1px solid #bbb;
+    background-color: #eee;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 80%;
+    margin: 5px auto;
+}
